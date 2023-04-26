@@ -16,6 +16,6 @@ At this momement I'm passionated for coding and stuff, I hope these feeling neve
 
 ## ⭐ GitHub
 
-![Github Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=rcnald&show_icons=true&locale=en&theme=aura)
+![Github Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=rcnald&show_icons=true&locale=en&layout=compact&theme=aura)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcnald&show_icons=true&theme=aura)
