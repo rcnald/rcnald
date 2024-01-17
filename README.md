@@ -17,10 +17,3 @@ At the moment, I'm deeply passionate about coding and related activities, and I 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rcnald" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ronaldo-mota-junior" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
-### Badges
-
-![Github Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=rcnald&show_icons=true&locale=en&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcnald&show_icons=true&theme=dark)
