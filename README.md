@@ -1,21 +1,26 @@
+```js 
+import { Ronaldo Junior as Rcnald } from 'user/name'
+```
+
 ![MasterHead](https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277)
 
-## 💜 Hi, i'm **{"Rcnald"}**!
-At this momement I'm passionated for coding and stuff, I hope these feeling never ends(SPOILER: it won't!)... Oh nice see you here! 👋😁
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%9C+Hi%2C+I'm+%7BRcnald%7D!;I'm+a+NextJS+Developer+%F0%9F%94%A5;%F0%9F%8F%96%EF%B8%8F+feel+free+to+explorer+my+profile)](https://git.io/typing-svg)
+----------------------
 
-- 🧍 I'm currenty a student, but I aiming to became a <strong style="color:#9900FF;font-weight:700;">front-end developer</strong> in soon.
-- 📚 I'm learning **ReactJs**.
 
-## 👨‍💻 My Development Skills
+At the moment, I'm deeply passionate about coding and related activities, and I hope this enthusiasm never fades (Spoiler: It won't!). Oh, it's great to see you here! 👋😁 I usually use these technologies: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Sass, React, Next.js, Git, and GitHub...
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass"/></code>
+* 🇧🇷  I'm based in São Paulo, Brazil
+* ✉️  You can contact me at [ronaldomjunior05@gmail.com](mailto:ronaldomjunior05@gmail.com)
+* 🧠  I'm learning NextJS & NodeJS
 
-## ⭐ GitHub
+### Socials
 
-![Github Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=rcnald&show_icons=true&locale=en&layout=compact&theme=aura)
+<p align="left"> <a href="https://www.github.com/rcnald" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ronaldo-mota-junior" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcnald&show_icons=true&theme=aura)
+
+### Badges
+
+![Github Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=rcnald&show_icons=true&locale=en&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcnald&show_icons=true&theme=dark)
