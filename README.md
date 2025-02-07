@@ -8,11 +8,11 @@ import { Ronaldo Junior as Rcnald } from 'user/name'
 ----------------------
 
 
-At the moment, I'm deeply passionate about coding and related activities, and I hope this enthusiasm never fades (Spoiler: It won't!). Oh, it's great to see you here! 👋😁 I usually use these technologies: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Sass, React, Next.js, Git, and GitHub...
+At the moment, I'm deeply passionate about coding and related activities, and I hope this enthusiasm never fades (Spoiler: It won't!). Oh, it's great to see you here! 👋😁 I usually use these technologies: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Sass, React, Next.js, Node, NestJS, Prisma, PostgreSQL, Git, and GitHub...
 
 * 🇧🇷  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [ronaldomjunior05@gmail.com](mailto:ronaldomjunior05@gmail.com)
-* 🧠  I'm learning NextJS & NodeJS
+* 🧠  I'm learning NestJS & data structure
 
 ### Socials
 
