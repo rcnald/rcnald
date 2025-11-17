@@ -8,8 +8,11 @@ import { Ronaldo Junior as Rcnald } from 'user/name'
 ----------------------
 
 
-At the moment, I'm deeply passionate about coding and related activities, and I hope this enthusiasm never fades (Spoiler: It won't!). Oh, it's great to see you here! 👋😁 I usually use these technologies: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Sass, React, Next.js, Node, NestJS, Prisma, PostgreSQL, Git, and GitHub...
+At the moment, I'm deeply passionate about coding and related activities, and I hope this enthusiasm never fades (Spoiler: It won't!). Oh, it's great to see you here! 👋😁
 
+I usually work with: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Sass, Shadcn UI, Radix UI, Zustand, Vite, Node.js, Express, Prisma, PostgreSQL, Resend, Zod, Vitest, Docker, Git and GitHub.
+
+Currently learning and exploring: NestJS and Data Structures. 🤓🚀
 * 🇧🇷  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [ronaldomjunior05@gmail.com](mailto:ronaldomjunior05@gmail.com)
 * 🧠  I'm learning NestJS & data structure
