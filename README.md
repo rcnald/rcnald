@@ -7,15 +7,21 @@ import { Ronaldo Junior as Rcnald } from 'user/name'
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%9C+Hi%2C+I'm+%7BRcnald%7D!;I'm+a+NextJS+Developer+%F0%9F%94%A5;%F0%9F%8F%96%EF%B8%8F+feel+free+to+explorer+my+profile)](https://git.io/typing-svg)
 ----------------------
 
+At the moment, I'm deeply passionate about software development, building products, and exploring new technologies — and I don't see that changing anytime soon. 😁🚀
 
-At the moment, I'm deeply passionate about coding and related activities, and I hope this enthusiasm never fades (Spoiler: It won't!). Oh, it's great to see you here! 👋😁
+I currently work as a Frontend Developer, building and evolving web applications with React.js and Next.js.
 
-I usually work with: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Sass, Shadcn UI, Radix UI, Zustand, Vite, Node.js, Express, Prisma, PostgreSQL, Resend, Zod, Vitest, Docker, Git and GitHub.
+**I usually work with:**  
+React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Material UI, Shadcn UI, Radix UI, Zustand, TanStack Query, Node.js, Express, NestJS, Prisma, PostgreSQL, Zod, Vitest, Docker, Git and GitHub.
 
-Currently learning and exploring: NestJS and Data Structures. 🤓🚀
-* 🇧🇷  I'm based in São Paulo, Brazil
-* ✉️  You can contact me at [ronaldomjunior05@gmail.com](mailto:ronaldomjunior05@gmail.com)
-* 🧠  I'm learning NestJS & data structure
+**Currently learning and exploring:**  
+DevOps, CI/CD and Cloud infrastructure.
+
+- 🇧🇷 Based in São Paulo, Brazil
+- 💻 Frontend Developer
+- 🛠️ Exploring DevOps, infrastructure and deployment
+- 🧠 Always learning and building
+- ✉️ [ronaldomjunior05@gmail.com](mailto:ronaldomjunior05@gmail.com)
 
 ### Socials
 
